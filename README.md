@@ -3,6 +3,8 @@
 A simple introduction to GAN for the lab seminar (2018). 
 
 Here are some generated samples:
+
+
 ![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/cifar10_sngan.png)
 ![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/mnist_acgan.png)
 ![image](https://github.com/wayne391/GAN-tutorial/blob/master/ref/samples/tab_wgan_gp_small.png)
